@@ -16,6 +16,7 @@
   },
   "plugins": ["prettier", "@typescript-eslint"],
   "rules": {
+    "no-useless-constructor":"off",
     "@typescript-eslint/naming-convention": [
       "error",
       {
