@@ -17,4 +17,4 @@ The mobile:
 
 1. `yarn`
 2. `yarn start`
-3. `yarn android` ou `yarn ios`
+3. `yarn android` or `yarn ios`
