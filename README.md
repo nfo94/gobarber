@@ -13,7 +13,7 @@ The backend:
 1. `yarn`
 2. `yarn dev:server`
 
-The mobile:
+To check the mobile app:
 
 1. `yarn`
 2. `yarn start`
